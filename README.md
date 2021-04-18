@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik</h1>
 <h3 align="center">Full-Stack & Mern-Stack Enthusiast 👨🏻‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-sahu-au13&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-sahu-au13" /> </p>
-
 - 🌱 I’m currently learning **MERN Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://pratiksahu-portfolio.netlify.app/](https://pratiksahu-portfolio.netlify.app/)
