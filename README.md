@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pratik</h1>
 <h3 align="center">MERN-Stack Enthusiast 👨🏻‍💻</h3>
 
-- 👨‍💻 All of my projects are available at [https://pratiksahu-portfolio.netlify.app/](https://pratiksahu-portfolio.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://pratiksahu-portfolio.netlify.app/](https://pratiksahu-portfolio.netlify.app/) -->
 
 - 📝 I write articles on [https://pra5-logs.hashnode.dev/](https://pra5-logs.hashnode.dev/)
 
 - 📫 How to reach me **pratikkumar2301@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YzOmeeymmaxXCC4FCmvWPTbW1byEfsJ5/view?usp=sharing](https://drive.google.com/file/d/1YzOmeeymmaxXCC4FCmvWPTbW1byEfsJ5/view?usp=sharing)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1YzOmeeymmaxXCC4FCmvWPTbW1byEfsJ5/view?usp=sharing](https://drive.google.com/file/d/1YzOmeeymmaxXCC4FCmvWPTbW1byEfsJ5/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
